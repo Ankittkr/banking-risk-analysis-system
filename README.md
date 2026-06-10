@@ -13,7 +13,7 @@ This project demonstrates the practical application of:
 ---
 ## Live Demo
 
-🔗 https://your-app-name.streamlit.app
+🔗 https://banking-risk-analysis-system.streamlit.app/
 
 ## 📌 Features
 
