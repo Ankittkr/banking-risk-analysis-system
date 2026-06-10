@@ -1,4 +1,4 @@
-# 🏦 BankRisk AI – Credit Risk Prediction & Loan Recommendation System
+# 🏦 Banking Risk Analysis – Credit Risk Prediction & Loan Recommendation System
 
 A Machine Learning-powered banking analytics platform that predicts customer credit risk and recommends loan amounts using the German Credit Dataset.
 
@@ -98,7 +98,7 @@ Recommended Loan Amount
 ## 📂 Project Structure
 
 ```text
-bankrisk-ai/
+Banking-Risk-Analysis/
 │
 ├── dataset/
 │   └── german_credit_data.csv
@@ -106,6 +106,11 @@ bankrisk-ai/
 ├── models/
 │   ├── risk_model.pkl
 │   └── loan_model.pkl
+│
+├── screenshot/
+│   ├── analytics-dashboard.png
+│   └── credit-risk.png
+│   └── loan-prediction.png
 │
 ├── app.py
 ├── train_models.py
@@ -168,7 +173,7 @@ hoehe   → Loan Amount
 ```bash
 git clone https://github.com/yourusername/bankrisk-ai.git
 
-cd bankrisk-ai
+cd banking-risk-analysis
 ```
 
 ### 2. Create Virtual Environment
@@ -324,7 +329,24 @@ This system can be used by:
 
 ---
 
-## 📷 Screenshots
+## 📷 Application Screenshots
+
+### Credit Risk Prediction
+
+![Credit Risk Prediction](screenshot/credit-risk.png)
+
+---
+
+### Loan Amount Recommendation
+
+![Loan Amount Recommendation](screenshot/loan-prediction.png)
+
+---
+
+### Analytics Dashboard
+
+![Analytics Dashboard](screenshot/analytics-dashboard.png)
+
 
 ### Credit Risk Prediction
 
